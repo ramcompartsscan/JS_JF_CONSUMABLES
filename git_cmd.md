@@ -1,5 +1,7 @@
+remember to share with vscode logged in user
 clone
 git status
+
 
 
 git push -u origin main
